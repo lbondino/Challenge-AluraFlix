@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--color-bg);
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-bg: ##D5CBCB;
+  --color-bg-edit: #D5CBCB;
+  --color-cienciaficcion: #1f0ddf;
+  --color-familiar: #aa5aa1;
+  --color-terror: #a9250a;
+  --color-error: #FF0000;
+  --color-light-gray: #A5A5A5;
+  --color-white: #FFFFFF;
+  --color-white-smoke: #F5F5F5;
+  --color-blue: #007BFF;
+  --color-blue-light: #2271D1;
+  --color-pink-light: #ec9cff;
+  --color-dark-gray-border: #262626;
+  --color-black: #A5A5A5;
+  --color-brillo: #ec9cff;
+  --color-button-shadow: #0b223f;
+  --color-banner: #D5CBCB;
+}
